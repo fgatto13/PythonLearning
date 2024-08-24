@@ -12,13 +12,6 @@ word = "car"
 # the following line of code gives an error
 # word[2] = "t"
 
-# slicing can be used with strings too
-plane = "airplane"
-print(plane[0:3])
-# expected output: "air"
-print(plane[3:8])
-# expected output: "plane"
-
 # you can also concatenate two strings
 print("Spam" + 'eggs')
 
